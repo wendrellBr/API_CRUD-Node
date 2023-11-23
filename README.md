@@ -7,9 +7,8 @@ Este projeto é uma API simples desenvolvida com Node.js utilizando o framework 
 Certifique-se de ter o Node.js instalado na sua máquina. Caso ainda não o tenha, você pode baixá-lo em [nodejs.org](https://nodejs.org/).
 
 ## Instalação
-
-1. Clone este repositório: `git clone https://github.com/seu-usuario/nome-do-repositorio.git`
-2. Acesse o diretório do projeto: `cd nome-do-repositorio`
+1. Clone este repositório: `git clone https://github.com/wendrellBr/API_CRUD-Node.git`
+2. Acesse o diretório do projeto: `cd API_CRUD-Node`
 3. Instale as dependências: `npm install`
 
 ## Configuração do Banco de Dados
