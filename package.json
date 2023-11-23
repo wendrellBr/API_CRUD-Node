@@ -1,0 +1,27 @@
+{
+  "name": "api-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "dev": "npm run clear && nodemon src/app.js",
+    "clear": "cls",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wendrell",
+  "license": "ISC",
+  "dependencies": {
+    "cores": "^0.8.5",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "nodemon": "^3.0.1",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.6"
+  },
+  "type": "module",
+  "devDependencies": {
+    "cls": "^0.1.5"
+  }
+}
