@@ -46,4 +46,4 @@ Partes do código e a estrutura da API foram desenvolvidas com base no projeto [
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](https://chat.openai.com/c/LICENSE) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
